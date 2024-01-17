@@ -14,7 +14,7 @@ Hello, I'm Emre Çelik! 👋
 - **MongoDB**
 - **Django** 
 - **SQL**
-- **SPSS**
+- ****
 
 🎓 Education
 - BilgeAdam Academy - Python Programming Course
