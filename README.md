@@ -2,7 +2,11 @@
 
 ## Data Scientist
 
-🚀 Hello! I'm Emre, a passionate professional in the fields of data science and Python development, holding a degree in statistics.
+🚀 I am a proficient data scientist in the fields of data science and machine learning. I have experience in 
+data analysis and modeling in languages such as Python and SQL. With strong analytical skills and 
+problem-solving abilities, I am eager to extract meaningful insights from complex datasets and add 
+value to businesses.
+
 
 ### 🌱 Currently Learning
 - Keeping up with the latest developments in the Python programming language.
