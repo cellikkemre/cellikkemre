@@ -7,18 +7,22 @@ Hello, I'm Emre Çelik! 👋
 🌱 Currently Learning
 - Keeping up with the latest developments in the Python programming language.
 - Continuously improving my skills in data science and machine learning.
-- Currently enrolled in Miuul's data scientist training bootcamp.
 
 🔧 Technical Skills
-- **Python**
-- **MongoDB**
-- **Django** 
-- **SQL**
-- ****
+Python
+SQL
+MS SQL
+MongoDB
+Django
+Data Analysis
+CRM Analysis
+Recommendation Systems
+Machine Learning
+Git & GitHub
+Docker
 
 🎓 Education
-- BilgeAdam Academy - Python Programming Course
-- Miuul - Data Scientist Training Bootcamp
+- Gazi University Statistics - Sep 2017 - Sep 2022
 
 🤝 Collaboration Interests
 - Open to collaboration on data science projects.
