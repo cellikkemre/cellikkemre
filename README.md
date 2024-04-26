@@ -1,6 +1,6 @@
 Hello, I'm Emre Çelik! 👋
 
-**Statistics Graduate | Data Scientist and Python Developer**
+** Data Scientist **
 
 🚀 Hello! I'm Emre, a passionate professional in the fields of data science and Python development, holding a degree in statistics.
 
@@ -9,20 +9,19 @@ Hello, I'm Emre Çelik! 👋
 - Continuously improving my skills in data science and machine learning.
 
 🔧 Technical Skills
-Python
-SQL
-MS SQL
-MongoDB
-Django
-Data Analysis
-CRM Analysis
-Recommendation Systems
-Machine Learning
-Git & GitHub
-Docker
+-Python
+-SQL
+-MS SQL
+-MongoDB
+-Django
+-Data Analysis
+-CRM Analysis
+-Recommendation Systems
+-Machine Learning
+-Docker
 
 🎓 Education
-- Gazi University Statistics - Sep 2017 - Sep 2022
+- Gazi University Statistics   Sep 2017 - Sep 2022
 
 🤝 Collaboration Interests
 - Open to collaboration on data science projects.
