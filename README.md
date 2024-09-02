@@ -18,24 +18,10 @@ value to businesses.
 - MS SQL
 - MongoDB
 - Django
-- Data Analysis
-- CRM Analysis
-- Recommendation Systems
-- Machine Learning
+- Power BI
 - Docker
 
-### 🎓 Education
-- **Gazi University**
-  - *Statistics*
-  - Sep 2017 - Sep 2022
 
-### 🏆 Certifications
-- **Miuul Data Scientist Bootcamp Certificate**
-  - Apr 2024
-- **Techcareer MLOps Engineer Bootcamp Certificate**
-  - Mar 2024
-- **Bilgeadam Python Developer Course Certificate**
-  - Mar 2023
 
 ### 🤝 Collaboration Interests
 - Open to collaboration on data science projects.
